@@ -1,5 +1,5 @@
 # leanote.com-issue
-Leanote.com 讨论区, 原bbs.leanote.com不再使用
+Leanote.com 讨论区, 原bbs.leanote.com不再使用. 请在此提出问题 https://github.com/leanote/leanote/issues
 
 Leanote相关资源:
 ## 使用教程
